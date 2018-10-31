@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Football Club Menda</string>
+
+    <string-array name="club_name">
+        <item>Arsenal</item>
+        <item>Bournemouth</item>
+        <item>Burnley</item>
+        <item>Chelsea</item>
+        <item>Crystal Palace</item>
+        <item>Everton</item>
+        <item>Huddersfield Town</item>
+        <item>Leicester City</item>
+        <item>Liverpool</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Arsenal Football Club (dikenal pula sebagai Arsenal atau The Gunners) adalah klub sepak bola profesional Inggris yang berbasis di daerah Holloway, London. didirikan pada 1886 dengan nama Dial Square. Klub ini bermain di Liga Utama Inggris yang termasuk salah satu klub tersukses di sepak bola Inggris, yang telah memenangkan 13 gelar kasta utama Liga Inggris (10 pada era Divisi Pertama dan 3 pada era Premier League) dan 13 gelar di Piala FA (Gelar paling banyak). Arsenal memegang rekor untuk periode terpanjang berada di kasta puncak Liga Inggris tanpa pernah terdegradasi sejak musim 1919 dan menjadi tim pada peringkat pertama dalam klasemen Liga Inggris sepanjang abad ke-20.[3] Arsenal menjadi tim kedua di Inggris yang menyelesaikan semusim liga tanpa kalah (musim 2003–04) dan tim pertama yang melakukannya pada era di mana satu musim berlangsung 38 pertandingan. </item>
+        <item>A.F.C. Bournemouth merupakan sebuah klub sepak bola profesional asal Inggris yang saat ini bermain di Liga Championship Inggris. Klub ini bermain di Lapangan Dean Court di Kings Park, Boscombe, Bournemouth, Dorset dan sudah ada sejak tahun 1899. </item>
+        <item>Burnley Football Club adalah sebuah klub sepak bola Inggris yang bermarkas di Burnley, Lancashire. Klub ini memainkan pertandingan kandangnya di Stadion Turf Moor yang berkapasitas 22.546 penonton. Seragam mereka adalah berwarna nila, sehingga mereka dijuluki Clarets. </item>
+        <item>Chelsea Football Club /ˈtʃɛlsiː/ adalah sebuah klub sepak bola Inggris yang bermarkas di Fulham, London. Chelsea didirikan pada tahun 1905 dan kini berkompetisi di Liga Utama Inggris. </item>
+        <item>Crystal Palace Football Club merupakan sebuah tim sepak bola Inggris yang bermarkas di London Borough of Croydon dan didirikan pada tahun 1905. Klub ini memainkan pertandingan kandangnya di Selhurst Park yang berkapasitas 26.309 penonton. Seragam mereka berwarna merah-biru. </item>
+        <item>Everton Football Club /ˈɛvərtən/ adalah sebuah klub sepak bola profesional yang bermarkas di Kota Liverpool, Inggris, dan merupakan klub rival dari klub sekota Liverpool. Didirikan pada tahun 1878 dan menjadi salah satu pendiri dari Liga Sepak Bola (Football League) pada tahun 1888 serta Liga Primer pada tahun 1992. </item>
+        <item>Huddersfield Town Association Football Club adalah sebuah klub sepak bola Inggris yang didirikan tahun 1908. Bermarkas di Huddersfield, West Yorkshire, Huddersfield pada musim 2015–16 bermain di Liga Championship Inggris. </item>
+        <item>Leicester City F.C. adalah sebuah tim sepak bola Inggris berbasis di Leicester. Leicester Dikenal juga dengan sebutan The Foxes. Klub ini memainkan pertandingan kandangnya di Stadion King Power yang berkapsitas 32.000 penonton. </item>
+        <item>Liverpool Football Club /ˈlɪvərpuːl/ (dikenal pula sebagai Liverpool atau The Reds) adalah sebuah klub sepak bola asal Inggris yang berbasis di Kota Liverpool. Saat ini Liverpool adalah peserta Liga Utama Inggris. </item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_arsenal</item>
+        <item>@drawable/img_bournemouth</item>
+        <item>@drawable/img_burnley</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_cp</item>
+        <item>@drawable/img_everton</item>
+        <item>@drawable/img_ht</item>
+        <item>@drawable/img_leicester</item>
+        <item>@drawable/img_liverpool</item>
+    </array>
+
+</resources>
